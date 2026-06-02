@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Arpit Dixit Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Arpit Dixit</h1>
+    <h3>B.Tech CSE Student</h3>
+
+    <p class="intro">
+        Learning C++, DSA, Web Development and GitHub.
+        Future Software Engineer.
+    </p>
+
+    <a href="#">
+        <button>Contact Me</button>
+    </a>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            I am a B.Tech CSE student passionate about programming,
+            problem solving and software development.
+        </p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>C++</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Git & GitHub</li>
+            <li>DSA</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <div class="card">Portfolio Website</div>
+        <div class="card">Calculator Website</div>
+        <div class="card">To-Do List App</div>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email:ad5323292@gmail.com</p>
+    </section>
+
+</div>
+
+</body>
+</html>
